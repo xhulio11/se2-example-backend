@@ -1,7 +1,7 @@
 module.exports = {
 	apps: [
 		{
-			name: "example-backend-0",
+			name: "example-backend-2",
 			script: "npm",
 			args: "start",
 			env: {
